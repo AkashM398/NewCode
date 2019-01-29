@@ -1,6 +1,11 @@
 Basic Command prompt commands essntials : Time taken to learn 30 :min
 
-touch command for creating a file   touch cat.txt
-cat command for opening a file      cat cat.txt (opens the contents of the file)
+touch command for creating a file                                               touch cat.txt
+cat command for opening a file,(opens the contents of the file)                 cat cat.txt 
 TAB can be used for auto-completion of the file name
-cd directory name to navigate/change the current directory
+cd directory name to navigate/change the current directory                      cd Python Codes
+pwd gives the current directory you are in                                      pwd 
+ls shows all files and directories in current directory                         ls  
+cd .. moves to the previous parent directory(don't forget the space)            cd ..
+cd  just cd takes you to home direc                                             cd
+mv file_name new_direc to move you can even move directories in the same way    mv new.txt textfolder
