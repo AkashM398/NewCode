@@ -9,3 +9,7 @@ ls shows all files and directories in current directory                         
 cd .. moves to the previous parent directory(don't forget the space)            cd ..
 cd  just cd takes you to home direc                                             cd
 mv file_name new_direc to move you can even move directories in the same way    mv new.txt textfolder
+mv old_name new_name to rename                                                  mv old_name.txt new_name.txt 
+cp file_name new_name  copy files                                               cp name.txt new_name.txt
+rm file_name remove file                                                        rm name.txt
+cp -r direc_name new_name  copy directory files                                 cp -r direc new_direcnaem
