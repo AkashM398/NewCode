@@ -13,3 +13,5 @@ mv old_name new_name to rename                                                  
 cp file_name new_name  copy files                                               cp name.txt new_name.txt
 rm file_name remove file                                                        rm name.txt
 cp -r direc_name new_name  copy directory files                                 cp -r direc new_direcnaem
+rm -r direc_name remove file                                                    rm -r newfolder
+mkdir to create a directory                                                     mkdir ProjectFolder
