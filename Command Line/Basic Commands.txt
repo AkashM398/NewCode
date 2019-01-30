@@ -1,2 +1,0 @@
-touch command for creating a file  touch cat.txt
-cat command for opening a file      cat cat.txt (opens the contents of the file)
