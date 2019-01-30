@@ -1,0 +1,5 @@
+
+Syntactically Awesome Style Sheets : SASS
+
+I thought this was some kind of language but it's like a preprocessor for CSS like it reduces the lines to code and simplifies CSS 
+Implememtation using various implememntations like for ex: Mixins i.e like fuctions etc
