@@ -1,13 +1,13 @@
 git command essetials
 
-git init
-git add file_name
-git commit -m "making changes and save"
+git init                                                           intilialize
+git add file_name                                                  add a new file to your repository
+git commit -m "making changes and save"                            commiting cahnges to your repo
 git remote add origin "https:url_of remote repo"
-git push origin master pushes the remote repo to master(push to remote)
+git push origin master                                             pushes the remote repo to master(push to remote)
 git pull origin master
-git status shows two colors red and green red is precious and green new changes
-git status to know if any files have been changed
-Display the commit history using git log.
-Using git log -p, display the modified content from past commits.
+git status                                                         shows two colors red and green red is precious and green new changes
+                                                                   to know if any files have been changed
+git log                                                            Display the commit history using git log.
+git log -p                                                         display the modified content from past commits.
 After confirming the changes, press Q to quit.
