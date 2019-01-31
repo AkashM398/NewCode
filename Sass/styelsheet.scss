@@ -1,19 +1,33 @@
-/* Add an argument to @mixin card */
+﻿@import "variables";
+
 @mixin card($color) {
   padding: 40px 28px;
 	margin: 16px 8px;
 	display: inline-block;
 	border-radius: 3px;
-	/* Change the value of the background-color */
 	background-color: $color;
 	img {
 		margin: 16px auto 20px;
 		display: block;
 	}
+	a {
+	  padding: 16px 32px;
+		background-color: #ffffff;
+		border-radius: 26px;
+		display: inline-block;
+		color: $color;
+		&:hover {
+			color: #ffffff;
+			background-color: darken($color, 10%);
+		}
+	}
+	h4 {
+	  color: darken($color, 20%);
+	}
 }
 
 body {   
-  min-width: 460px;
+  min-width: 700px;
 	text-align: center;
 	font-family: "Hiragino Kaku Gothic ProN";
 	background-color: #f0f5fc;
@@ -41,14 +55,20 @@ header {
 	}
 }
 
-/* Add an argument to @include card */
 .html {
-  @include card(#1bd7cf);
+  @include card($html);
 }
-/* Add an argument to @include card */
+
 .javascript {
-  @include card(#ffe400);
+  @include card($javascript);
 }
+
+/* Add a .ruby class with the same style as .html and .javascript */
+.ruby{
+  @include card($ruby);
+  
+}
+
 
 footer {
 	margin: 100px 0 32px;
