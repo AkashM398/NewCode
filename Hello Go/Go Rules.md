@@ -1,9 +1,9 @@
 # Basic Guidelines for Go programming language:
 
-1.Case Sensitive
-2.Indentation required(code formatting)
-3.Note the Brackets 
-4.variables declared not used gives an error
+1.Case Sensitive<br/>
+2.Indentation required(code formatting)<br/>
+3.Note the Brackets <br/>
+4.variables declared not used gives an error<br/>
 
  # Go Facts
  
