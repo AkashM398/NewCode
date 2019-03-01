@@ -1,4 +1,4 @@
-## Basic Command prompt commands essntials : Time taken to learn 30 :min
+## Basic Command prompt commands essntials : 
 
 <pre>touch command for creating a file                                               touch cat.txt</pre>
 <pre>cat command for opening a file,(opens the contents of the file)                 cat cat.txt </pre>
