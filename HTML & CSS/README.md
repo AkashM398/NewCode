@@ -1,3 +1,3 @@
-# New-Code
+# HTML & CSS
 
-Strating from scarth and basics, trying new things and learing them in a short span of time whenever I feel Bored.
+After a long time after my sixth class started HTML again very excited to revise or maybe learn new things as a part of #ProgateChallenege 
