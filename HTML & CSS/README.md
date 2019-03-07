@@ -26,10 +26,11 @@ CSS Cascading Style Sheets is used to design the websites like colors and decor 
 . Now using the class of any tag in HTML we can specify the color etc only to selected tags</br>
 .You can just change/set colors and properties of whole body or h1 or any tag by just mentioning it's name</br>
 .for li tag set *list-style*/:none; to remove bullets and simply display a list</br>
-.set float property in list to set alignment like left or right
-.defiene padding induvidually like padding-top/right/bottom/left:10px; or simply padding:toppx rpx bpx lpx; 
-.suppose you want to change the properties of list tag in the header tag you should specify as : *.header-list* *li* {}
-.You can add a border with the border property ,you can specify the thickness, style(solid), and color
-.Customise borders further like border-bottom, border-top, border-left, or border-right.
-.Add more padding inside and outside border for more beautiful looks for the page
-.Also do add margins like margin-top etc for adding margins on any side
+.set float property in list to set alignment like left or right</br>
+.defiene padding induvidually like padding-top/right/bottom/left:10px; or simply padding:toppx rpx bpx lpx; </br>
+.suppose you want to change the properties of list tag in the header tag you should specify as : *.header-list* *li* {}</br>
+.You can add a border with the border property ,you can specify the thickness, style(solid), and color</br>
+.Customise borders further like border-bottom, border-top, border-left, or border-right.</br>
+.Add more padding inside and outside border for more beautiful looks for the page</br>
+.Also do add margins like margin-top etc for adding margins on any side</br>
+.
