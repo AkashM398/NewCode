@@ -14,7 +14,7 @@ HTML is like it defines the Structure of the website/webpage like a frame which 
 .\<meta charset=\"utf-8\"\> To define the encoding of the site and ensure our page displays corrrectly</br>
 .\<link rel=\"stylesheet\" href=\"stylesheet.css\"\> Link to the css file
 .You can add various /<div/> tags in body to define various calsses in the body
-.
+.Suppose you want to modify only 'H' in Hello World then just add a span tag like <sapn>H</span>ELLO now customoze this span tag in CSS
 
 
 # CSS
@@ -28,3 +28,8 @@ CSS Cascading Style Sheets is used to design the websites like colors and decor 
 .for li tag set *list-style*/:none; to remove bullets and simply display a list</br>
 .set float property in list to set alignment like left or right
 .defiene padding induvidually like padding-top/right/bottom/left:10px; or simply padding:toppx rpx bpx lpx; 
+.suppose you want to change the properties of list tag in the header tag you should specify as : *.header-list* *li* {}
+.You can add a border with the border property ,you can specify the thickness, style(solid), and color
+.Customise borders further like border-bottom, border-top, border-left, or border-right.
+.Add more padding inside and outside border for more beautiful looks for the page
+.Also do add margins like margin-top etc for adding margins on any side
