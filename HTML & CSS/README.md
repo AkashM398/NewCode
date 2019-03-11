@@ -12,9 +12,13 @@ HTML is like it defines the Structure of the website/webpage like a frame which 
 .\<a href\=\"https://github.com\"\>GitHub\<\/a\>defining links</br>
 .Specifying class of the tag helps in CSS designing and organizing the tags for customization</br>
 .\<meta charset=\"utf-8\"\> To define the encoding of the site and ensure our page displays corrrectly</br>
-.\<link rel=\"stylesheet\" href=\"stylesheet.css\"\> Link to the css file
-.You can add various /<div/> tags in body to define various calsses in the body
-.Suppose you want to modify only 'H' in Hello World then just add a span tag like <sapn>H</span>ELLO now customoze this span tag in CSS
+.\<link rel=\"stylesheet\" href=\"stylesheet.css\"\> Link to the css file</br>
+.You can add various /<div/> tags in body to define various calsses in the body</br>
+.Suppose you want to modify only 'H' in Hello World then just add a span tag like <sapn>H</span>ELLO now customoze this span tag in CSS</br>
+.<input> tag for taking input from the user no need to close the input tag</br>
+.<textarea> tag for multiple lines of input</br>
+.
+
 
 
 # CSS
@@ -33,4 +37,6 @@ CSS Cascading Style Sheets is used to design the websites like colors and decor 
 .Customise borders further like border-bottom, border-top, border-left, or border-right.</br>
 .Add more padding inside and outside border for more beautiful looks for the page</br>
 .Also do add margins like margin-top etc for adding margins on any side</br>
-.
+.we use opacity property to make an element transparent.</br>
+.But the problem with opacity is that it makes the entire element transparent, including all the child elements.</br>
+.If we only want the background color to be transparent, we can use rgba.</br>
