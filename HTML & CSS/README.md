@@ -39,4 +39,7 @@ CSS Cascading Style Sheets is used to design the websites like colors and decor 
 .Also do add margins like margin-top etc for adding margins on any side</br>
 .we use opacity property to make an element transparent.</br>
 .But the problem with opacity is that it makes the entire element transparent, including all the child elements.</br>
-.If we only want the background color to be transparent, we can use rgba.</br>
+.If we only want the background color to be transparent, we can use rgba property.</br>
+.Use the display property to display elements as blocks etc block,inline-block etc</br>
+.Font weight normal,bold</br>
+.Using hover properties and transitions</br>
