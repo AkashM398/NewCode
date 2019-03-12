@@ -17,7 +17,7 @@ HTML is like it defines the Structure of the website/webpage like a frame which 
 .Suppose you want to modify only 'H' in Hello World then just add a span tag like <sapn>H</span>ELLO now customoze this span tag in CSS</br>
 .<input> tag for taking input from the user no need to close the input tag</br>
 .<textarea> tag for multiple lines of input</br>
-.
+.<div class="new"> further usage of div class for proper displaying of multiple child elements
 
 
 
@@ -43,3 +43,7 @@ CSS Cascading Style Sheets is used to design the websites like colors and decor 
 .Use the display property to display elements as blocks etc block,inline-block etc</br>
 .Font weight normal,bold</br>
 .Using hover properties and transitions</br>
+.float:left property is very useful like orientation of elements in a class
+.position: absolute   exactly present on the webpage despite overlapping elements
+.position: relative as said by the name relative to other elements
+. text-align:center right or left
