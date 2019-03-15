@@ -43,7 +43,16 @@ CSS Cascading Style Sheets is used to design the websites like colors and decor 
 .Use the display property to display elements as blocks etc block,inline-block etc</br>
 .Font weight normal,bold</br>
 .Using hover properties and transitions</br>
-.float:left property is very useful like orientation of elements in a class
+.float:left property is very useful like orientation of elements in a class mostly like alignmnet
 .position: absolute   exactly present on the webpage despite overlapping elements
 .position: relative as said by the name relative to other elements
 . text-align:center right or left
+.The box-shadow property is used to add shadows to elements.
+.We can use it by specifying its horizontal length, vertical length, and the color.
+.cursor:pointer; property is used to change the mouse pointer from pointer to hand or to edit text and so on
+. box-shadow:0 7px #1a7940; property is used for creating 3-D buttons param(horizantal,vertical,color)
+.The :active selector can be used to add CSS for when an element is being clicked
+.btn:active{box-shadow:nonre;} removes the 3-d effect when button is pressed\
+.position:relative;top:7px; adding these two attributes to the active property shows presssed effect when clicked
+.position: fixed; to keep position of a element even specify top and left properties
+.z-index property lets you manage elements on top of one another like slices
