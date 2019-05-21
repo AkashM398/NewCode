@@ -19,3 +19,4 @@
 18.	Future Learn - https://www.futurelearn.com/
 19.	Tuts Plus - https://tutsplus.com/
 20.	Open Culture - http://www.openculture.com/
+21.  Artificial Intelligence  - http://fast.ai/
