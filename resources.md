@@ -20,3 +20,42 @@
 19.	Tuts Plus - https://tutsplus.com/
 20.	Open Culture - http://www.openculture.com/
 21.  Artificial Intelligence  - http://fast.ai/
+
+Beginning Python
+
+https://drive.google.com/folderview?id=1KnfTxxCDurkm1vOty5tBuiNSZAi30014
+
+Python Design Pattern
+
+https://drive.google.com/folderview?id=1qQF3oqKXsRnYoLwxu2qRKICWF2JlGCAn
+
+Mastering Python
+
+
+https://drive.google.com/folderview?id=15lQClcQA2rHOpyo5mMFcigAvT7ucIzsW
+
+Python web Penetrations testing
+
+https://drive.google.com/folderview?id=1ye6US-1ki9YjZYRqYQyFFJanlrdqrqrj
+
+Python machine learning project
+
+https://drive.google.com/folderview?id=1TH7UCmFv4Y7HdAao0JquVMUKxl8Q7XHh
+
+Deep learning with python
+
+https://drive.google.com/folderview?id=1ORyySQmRn9GRtvvxNNQyABBG9Dcs18gD
+
+https://www.udemy.com/the-complete-beginners-guide-to-powerpoint-2016/?couponCode=US100FCPP10000
+
+
+https://www.udemy.com/excel-hacking-dynamic-charts-and-linking-to-powerpoint/?couponCode=YouAreAwesome
+
+
+https://www.udemy.com/video-editing-for-beginners-complete-shotcut-masterclass/?couponCode=NEWEDITOR
+
+https://www.udemy.com/undetectable-malware/?couponCode=FREEBIES
+
+https://www.udemy.com/how-to-create-a-best-selling-online-course-in-7-steps/?couponCode=ONLINETEACHER
+
+https://www.udemy.com/labview-step-by-step-your-complete-guide/?couponCode=PROMOCOUPONS24
