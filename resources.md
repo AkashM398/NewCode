@@ -59,3 +59,43 @@ https://www.udemy.com/undetectable-malware/?couponCode=FREEBIES
 https://www.udemy.com/how-to-create-a-best-selling-online-course-in-7-steps/?couponCode=ONLINETEACHER
 
 https://www.udemy.com/labview-step-by-step-your-complete-guide/?couponCode=PROMOCOUPONS24
+
+
+IBM Cognitive classes is one way to learn Data Science and Machine Learning, and it is absolutely FREE.
+
+*DON'T SKIP THE LAB EXERCISE., IT IS HELPFUL*
+
+This is the Learning Path
+
+1)Introduction to Data Science
+(https://lnkd.in/fF79bEj)
+
+2)Data Science Tools
+(https://lnkd.in/fYf2ZC8)
+
+3)Data Science Methodology
+(https://lnkd.in/fY6Kwqd)
+
+4)Statistics 101
+(https://lnkd.in/fpgJf7D)
+
+5)Predictive Modeling Fundamentals I
+(https://lnkd.in/f9_Y7UZ)
+
+6)Python for Data Science
+(https://lnkd.in/fy8E2wH)
+
+7)Data Analysis with Python
+(https://lnkd.in/fRQWByd)
+
+:sunglasses:Data Visualization with Python
+(https://lnkd.in/fFu93ME)
+
+9)Machine Learning with Python
+(https://lnkd.in/f_7r534)
+
+10)Deep Learning Fundamentals
+(https://lnkd.in/fNvPvix)
+
+11)Deep Learning with TensorFlow
+(https://lnkd.in/ftfRtvQ)
