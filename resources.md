@@ -99,3 +99,22 @@ This is the Learning Path
 
 11)Deep Learning with TensorFlow
 (https://lnkd.in/ftfRtvQ)
+
+
+1) Complete ONLY week 2 and week 4 video materials  of this course
+https://www.coursera.org/learn/predictive-analytics
+Click on enroll and select Audit option ( Otherwise you may need to pay fees for taking this course)
+2) second course ( has overlap with the above course)
+This free course gives an good overview of Machine learning
+https://cognitiveclass.ai/courses/machine-learning-with-python/
+You need to do free registration at this website to get free IBM cloud access and use it for 1 year freely.
+
+Download the free books
+1)Building machine learning systems with python
+2)what you need to know about machine learning
+from this link ( requires free registration) https://india.packtpub.com/in/free-ebooks
+3) Keep this online book
+https://jakevdp.github.io/PythonDataScienceHandbook/ as reference.
+
+Do not read any of the books as the first reading material.
+In case you do not understand anything from the videos refer this book.
