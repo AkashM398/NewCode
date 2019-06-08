@@ -462,3 +462,5 @@ https://books.goalkicker.com/XamarinFormsBook/
 I tried to upload maximum languages pdf. Let me know if you need anything else.
 
 I hope it will help you guys.
+
+https://docs.google.com/spreadsheets/d/1NZtIxDWiJ_B0UKhIDUk-wTZAT3Fxfh-fGwcQKXg1bQU/edit#gid=0
